@@ -1,4 +1,5 @@
-GUID d4be15d1d9c54fd1b234e17361c3287c
+GUID 85d2f1e515a842608abc792a0cdb9314
+
 
 
 Type Fuel
@@ -24,4 +25,5 @@ Blueprint_0_Tool 76
 Blueprint_0_Level 3
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
 Exclude_From_Master_Bundle
